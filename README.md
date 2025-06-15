@@ -78,17 +78,17 @@ movie-app/
    ```bash
    git clone https://github.com/yourusername/PlateformeStreaming-FilmSeries.git
 
-2.Backend :
+2. Backend :
 cd PlateformeStreaming-FilmSeries/backend
 npm install
 npm start
 
-3.Frontend :
+3. Frontend :
 cd ../frontend
 npm install
 ng serve
 
-4.Ouvrir dans le navigateur :
+4. Ouvrir dans le navigateur :
 http://localhost:4200
 
 📄 Licence
