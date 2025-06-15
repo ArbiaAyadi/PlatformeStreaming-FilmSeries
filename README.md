@@ -61,3 +61,36 @@ movie-app/
 │   │   └── auth.js
 │   ├── server.js
 │   └── package.json
+
+
+---
+
+## 🚀 Installation & démarrage
+
+### Prérequis
+- Node.js & npm  
+- Angular CLI  
+- MongoDB local  
+
+### Étapes
+
+1. Cloner le dépôt :  
+   ```bash
+   git clone https://github.com/yourusername/PlateformeStreaming-FilmSeries.git
+
+2.Backend :
+cd PlateformeStreaming-FilmSeries/backend
+npm install
+npm start
+
+3.Frontend :
+cd ../frontend
+npm install
+ng serve
+
+4.Ouvrir dans le navigateur :
+http://localhost:4200
+
+📄 Licence
+Ce projet est sous licence MIT.
+Voir le fichier LICENSE pour plus de détails.
